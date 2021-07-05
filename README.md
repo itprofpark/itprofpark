@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning AI
+📫 How to reach me itprofpark@gmail.com
 <!--
 **itprofpark/itprofpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
